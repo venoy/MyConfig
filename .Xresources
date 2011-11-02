@@ -1,0 +1,36 @@
+URxvt.termName:xterm
+
+URxvt.preeditType:Root
+URxvt.depth:32
+
+URxvt.background: [90]#000000
+URxvt.foreground: green
+URxvt.colorBD:Gray95
+URxvt.colorUL:Green
+URxvt.color1:Red2
+URxvt.color4:RoyalBlue
+URxvt.color5:Magenta2
+URxvt.color8:Gray50
+URxvt.color10:Green2
+URxvt.color12:DodgerBlue
+URxvt.color14:Cyan2
+URxvt.color15:Gray95
+
+URxvt.scrollBar:True
+URxvt.scrollBar_right:True
+URxvt.scrollBar_floating:False
+URxvt.scrollstyle:plain
+
+URxvt.mouseWheelScrollPage:True
+URxvt.scrollTtyOutput: False
+URxvt.scrollWithBuffer: True
+URxvt.scrollTtyKeypress: True
+
+URxvt.cursorBlink:True
+URxvt.SaveLines:3000
+
+URxvt.borderless: False
+
+Xft.dpi:96
+URxvt.font:xft:Ubuntu mono:size=12:style=regular:antialias=true, xft:WenQuanYi Micro Hei Mono:size=10:style=regular:antialias=true
+URxvt.boldfont:xft:Monospace:size=10:style=Bold:antialias=true, xft:WenQuanYi Micro Hei Mono:size=10:style=bold:antialias=true
